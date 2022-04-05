@@ -1,2 +1,3 @@
 # NodeJS-LinkedIn
-Follow lear path Become a Node.js Developer in LinkedIn
+
+Follow learning path Become a Node.js Developer on LinkedIn
