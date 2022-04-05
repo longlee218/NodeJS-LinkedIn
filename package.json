@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-linkedin",
+  "version": "1.0.0",
+  "description": "Follow learning path Become a Node.js Developer on LinkedIn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longlee218/NodeJS-LinkedIn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longlee218/NodeJS-LinkedIn/issues"
+  },
+  "homepage": "https://github.com/longlee218/NodeJS-LinkedIn#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "lodash": "^4.17.21"
+  }
+}
